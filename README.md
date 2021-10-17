@@ -22,10 +22,10 @@ Infura API
 
 - Before running the application first install the following dependencies.
 
-  pip install streamlit
-  pip install web3==5.17
-  pip install eth-tester==0.5.0b3
-  pip install mnemonic
-  pip install bip44
+ - pip install streamlit
+  - pip install web3==5.17
+  - pip install eth-tester==0.5.0b3
+  - pip install mnemonic
+  - pip install bip44
   ------
   
