@@ -2,7 +2,7 @@
 
 - An Ethereum based application that can send funds to FinTech candidates using their Ethereum account address. The user can use this application to find the FinTech professionals, choose the number of hours they want to hire them for, and pay them by sending an ETH transaction. The transactions can be viewed on Etherscan.
 -------
-##Technologies
+## Technologies
 - This project leverages python 3.7.9 with the following packages:
 
 - Streamlit - A platform to quickly share python code over the web.
@@ -13,7 +13,7 @@
 
 - mnemonic 
 
--bip44  
+- bip44  
 
 Infura API
 -----------
