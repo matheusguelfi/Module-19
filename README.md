@@ -19,7 +19,8 @@ Infura API
 -----------
 
 ### Installation Guide
-Before running the application first install the following dependencies.
+
+- Before running the application first install the following dependencies.
 
   pip install streamlit
   pip install web3==5.17
